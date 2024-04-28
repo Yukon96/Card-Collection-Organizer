@@ -1,0 +1,66 @@
+7 Steps to Write a Great Mobile Application Requirement Document
+
+By Nikki Johnson
+
+A mobile application requirement document also called as a product specification document is the groundwork of your enterprise mobile application. It gives an outline of the business logic, enlists the technical details, and also becomes a guide for your development team from initial concept stage to the end point.
+
+Why is writing requirements so crucial?
+
+Imagine a scenario where you need to develop an enterprise mobile application and you have given the description of your need to a development team. However, when you actually see the app, the developed version looks different from what your company needs. This discrepancy has arisen because the developer did not get a clear idea of the needs of your enterprise before he started developing the app. A formalized document will certainly give a more concrete shape to your idea and a clear picture to your development team. You will also be able to make sure that the developer understands your requirement completely. Hence a document giving functional requirements of the mobile application is extremely crucial.
+
+Here, we will help you understand the steps of writing a mobile application requirement document easily.
+
+• Formulate an Idea Description
+
+Preferably, the description of an idea must be given in a single sentence. Hence, the reader should be able to understand the main purpose of the app and connect with its usability almost instantly.
+
+This application will allow user to upload, oragnize and manage data and their collecting card collection in a variety of ways. 
+
+• Give the Right Sequence
+
+By knowing a bit about the basic navigation pattern, you will be able to give a description of the sequence the way a user is going to explore it. Describe a bit about how the initial screens like the onboarding screen and the user registration screen, home screen etc. should be. Don’t ignore the privacy-policy and forgot password features!
+
+Start at home screen, has multiple drop down windows for menus and will display most recent searches and collections as passive display 
+
+Profile,  edit, delete, associated collections 
+collections, search(APIs)
+
+No login necessary to explore, but necessary for card collection handling 
+
+• Refer to Existing Applications
+
+See the current applications that are already existing in the market. You can review these applications and they will help you to identify what features would you want to have in your application. For instance, if you like a certain feature in applications X and Y, you can add it in your mobile application requirements document as well.
+
+• Identify the Priority Features
+
+You must convey to your developers what are the features that you must have and what are the features that can be avoided or considered as secondary. This helps the developers identify that what that they need to focus on a priority basis.
+
+• Give only Relevant Details
+
+Users are generally not concerned with details like the color of buttons. You can skip details like these as all that users are keen to know is whether or not the application can solve their problems. The focus while making a mobile application requirements document template must be on the functions of the application, and other details can be taken on lesser priority.
+
+• Create Wireframes
+
+Along with the text, provide wireframes of the mobile application as well. If there are four or more wireframe screens, you can create the screen map. Screen maps complement the text in the requirements document even further. They help in giving a visual representation and helps the developers understand the description in a more precise way.
+
+• Choose Appropriate Requirements Formats
+
+Once you know the basic steps of writing the mobile application requirements document, you will need to select a suitable format to actually write it. Here we have given a brief description about a few simple formats:
+
+ 
+
+• Functional Specification Document (FSD)
+
+An FSD is almost like a default format for development of mobile applications. It generally covers all requirements in a list form that what all should the product do and the way it should function. A person who already has experience in software development and knows about the mobile platform will be able to create this because it requires details and involves time.
+
+• User Stories
+
+User Stories are stronger than FSD even though they are comparatively less formal. They enumerate the things that the users can do in the app and hence give the user’s point of view. This kind of format provides a clearly defined business case and technical summary of the requirements. The developers can easily identify which features are critical and which features can be dropped out to be released with a later version.
+
+• Sketches and Wireframes
+
+Through sketches and wireframes, you will be able to give a visual representation of the requirements. Having the screens right before your eyes helps in giving a clarity in understanding the scope of the work.
+
+• Using Mixed Formats
+
+You can also try mixing formats. That way you can use the best features of each of these styles and convey your requirements in the easiest and most precise way. What most people do is that they begin by creating the wireframes and then add user stories for each screen. This is the most convenient practice and also the most popular approach.
