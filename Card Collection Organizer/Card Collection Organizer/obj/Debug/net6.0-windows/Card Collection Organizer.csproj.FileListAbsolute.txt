@@ -1,0 +1,29 @@
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.exe
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.dll.config
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.deps.json
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.runtimeconfig.json
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\Card Collection Organizer.pdb
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.csproj.AssemblyReference.cache
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer_MarkupCompile.cache
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer_MarkupCompile.lref
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.g.resources
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.AssemblyInfoInputs.cache
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.AssemblyInfo.cs
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.csproj.CoreCompileInputs.cache
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.csproj.CopyComplete
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\refint\Card Collection Organizer.dll
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.pdb
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\Card Collection Organizer.genruntimeconfig.cache
+C:\Users\10035\Workspace\Card-Collection-Organizer\Card Collection Organizer\Card Collection Organizer\obj\Debug\net6.0-windows\ref\Card Collection Organizer.dll

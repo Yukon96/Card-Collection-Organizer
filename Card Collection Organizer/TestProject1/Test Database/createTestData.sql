@@ -1,0 +1,6 @@
+IF DB_ID('test_database') IS NOT NULL
+BEGIN
+	ALTER DATABASE test_database SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+	DROP DATABASE test_database;
+END
+CREATE DATABASE test_database
